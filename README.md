@@ -3,7 +3,7 @@
 <h2> 💔🌹🪫💀 Do you love the way I do when I'm lovin' your body? 💔🌹🪫💀 </h2>
 <p>I'm using memes to learn(I usually do this).</p>
 
-## 💔🌹🪫💀 lerarning 
+## 💔🌹🪫💀 learning 
 <div> 
 <img src="https://img.shields.io/badge/Let%20-%20blue">
 <img src="https://img.shields.io/badge/Me%20-%20red">
