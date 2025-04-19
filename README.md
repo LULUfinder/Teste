@@ -13,4 +13,3 @@
 # Time
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/207632200?v=4" width=115><br><sub>João Uebou"</sub>](https://github.com/LULUfinder)
-:---: | :---: |
